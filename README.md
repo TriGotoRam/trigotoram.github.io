@@ -26,6 +26,15 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+
+Для исполнения подобных прерогатив, рекомнедую выполнить апробацию всех возможностей. Нет более полезных свойств, чем полнота и связность.
+
+![Image]https://trigotoram.github.io/imgs/16216329637120.jpg
+
+
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
