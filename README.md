@@ -26,6 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
