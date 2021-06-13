@@ -29,8 +29,7 @@ Syntax highlighted code block
 
 Для исполнения подобных прерогатив, рекомнедую выполнить апробацию всех возможностей. Нет более полезных свойств, чем полнота и связность.
 
-![Image](https://trigotoram.github.io/imgs/16216329637120.jpg)
-
+![Image](https://github.com/TriGotoRam/trigotoram.github.io/blob/main/imgs/16216329637120.jpg)
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
