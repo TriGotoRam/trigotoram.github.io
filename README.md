@@ -8,6 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
 ```markdown
 Syntax highlighted code block
 
@@ -26,12 +27,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-
 Для исполнения подобных прерогатив, рекомнедую выполнить апробацию всех возможностей. Нет более полезных свойств, чем полнота и связность.
 
 ![Image]https://trigotoram.github.io/imgs/16216329637120.jpg
-
-
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
